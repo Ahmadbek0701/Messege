@@ -1,0 +1,79 @@
+/* Header */
+header {
+    background-color: rgb(126, 126, 223);
+    width: 100%;
+    height: 70px;
+}
+.header-text {
+    padding: 10px;
+}
+.header-x {
+    margin-left: 700px;
+    padding: 10px;
+}
+/* Section start */
+.hr-one {
+    width: 45%;
+    height: 3px;
+    background-color: gray;
+    margin-top: 50px;
+}
+.hr-two {
+    width: 45%;
+    height: 3px;
+    background-color: gray;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.today-text {
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.massage-one {
+    width: 40%;
+    height: 80px;
+    background-color: rgb(171, 171, 240);
+}
+.massage-one-text {
+    margin-left: 15px;
+    width: 400px;
+}
+.massage-time-two {
+    text-align: right;
+}
+.massage-two {
+    width: 40%;
+    margin-left: 60%;
+    height: 80px;
+    background-color: rgb(200, 200, 233);
+}
+.massage-two-text {
+    margin-left: 15px;
+}
+.massage-third {
+    width: 20%;
+    margin-left: 15px;
+    height: 60px;
+    background-color: rgb(171, 171, 240);
+}
+.massage-third-text {
+    margin-left: 15px;
+    padding: 15px;
+}
+.massage-four {
+    width: 40%;
+    margin-left: 60%;
+    height: 60px;
+    background-color: lightpink;
+}
+.massage-four-text {
+    margin-left: 15px;
+    padding: 10px;
+}
+.footer-enter {
+    color: gray;
+}
+.footer-send {
+    margin-left: 750px;
+}
